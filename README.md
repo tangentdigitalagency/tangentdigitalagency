@@ -1,54 +1,39 @@
-# Hi there 👋, My name is David
+<h1 align="center">Hi 👋, I'm David Verduzco</h1>
+<h3 align="center">Aspiring Digital Marketer and Designer || Passionate About All Things Marketing, Designing, & Programming || Experience with Google Adwords/Analytics, UI/UX Building, and Full Stack Web Development</h3>
 
-<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4E16AQHaFIKYxkMcTg/profile-displaybackgroundimage-shrink_350_1400/0/1601657166706?e=1658966400&v=beta&t=OzdFJxT1Ny572BoCLEb0bK6y3PFY0PUPW9QF8HWVGNA" alt="my banner">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tangentdigitalagency&label=Profile%20views&color=0e75b6&style=flat" alt="tangentdigitalagency" /> </p>
 
-Aspiring Digital Marketer and Designer || Passionate About All Things Marketing, Designing, & Programming || Experience with Google Adwords/Analytics, UI/UX Building, and Full Stack Web Development
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tangentdigitalagency" alt="tangentdigitalagency" /></a> </p>
 
-## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on React Forms for insurance</p>
-<p>🙏 I'm looking for help with Unreal Engine</p>
-<p>🌱 I'm currently learning React, Python, Node.js, Express.js</p>
-<p>💬 Ask me about FrontEnd Dev</p>
-<p>📫 How to reach me? david@tangentdigitalagency.com</p>
-<p>I regularly write articles on <a href="https://tangentdigital.agency">My website</a></p>
-<p>⚡ Fun Fact: I love chicken nuggets & coffee</p>
+<p align="left"> <a href="https://twitter.com/racoon_dovyd" target="blank"><img src="https://img.shields.io/twitter/follow/racoon_dovyd?logo=twitter&style=for-the-badge" alt="racoon_dovyd" /></a> </p>
 
-## 💻 Skills
-<p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+- 🔭 I’m currently working on [my new website](https://tangent-v3.webflow.io/)
+
+- 🌱 I’m currently learning **Next.js, Redux, Python, UE5**
+
+- 🤝 I’m looking for help with **Next.js**
+
+- 👨‍💻 All of my projects are available at [tangentdigital.agency](tangentdigital.agency)
+
+- 💬 Ask me about **react, html, css, javascript**
+
+- 📫 How to reach me **david@tangentdigitalagency.com**
+
+- ⚡ Fun fact **i survive on chicken nuggets and coffee**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/racoon_dovyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="racoon_dovyd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tangent-digital-agency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tangent-digital-agency" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12727419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12727419" height="30" width="40" /></a>
+<a href="https://instagram.com/raccoon_dovyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raccoon_dovyd" height="30" width="40" /></a>
 </p>
 
-## 👥 Connect With Me
-<p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tangent-digital-agency/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/@racoon_dovyd"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-## 🌟 Github Badges
-<p>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tangentdigitalagency&show_icons=true&locale=en&layout=compact" alt="tangentdigitalagency" /></p>
 
-## 🏆 GitHub Trophies
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tangentdigitalagency&show_icons=true&locale=en" alt="tangentdigitalagency" /></p>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=tangentdigitalagency">
-</p>
-
-## 📊 Github Status
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=tangentdigitalagency&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangentdigitalagency&layout=compact"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tangentdigitalagency"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=tangentdigitalagency&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tangentdigitalagency&" alt="tangentdigitalagency" /></p>
